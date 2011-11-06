@@ -548,3 +548,115 @@ Started GET "/pages/about" for 127.0.0.1 at 2011-11-06 00:44:08 -0400
   Processing by PagesController#about as HTML
 Rendered pages/about.html.erb within layouts/application (0.4ms)
 Completed 200 OK in 6ms (Views: 6.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/home" for 127.0.0.1 at 2011-11-06 10:06:22 -0500
+  Processing by PagesController#home as HTML
+Rendered pages/home.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 412ms (Views: 411.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/home" for 127.0.0.1 at 2011-11-06 10:10:55 -0500
+  Processing by PagesController#home as HTML
+Rendered pages/home.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 54ms (Views: 53.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/home" for 127.0.0.1 at 2011-11-06 10:10:57 -0500
+  Processing by PagesController#home as HTML
+Rendered pages/home.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 6ms (Views: 5.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/rails.png" for 127.0.0.1 at 2011-11-06 10:15:55 -0500
+Served asset /rails.png - 304 Not Modified (85ms)
+
+
+Started GET "/pages/home" for 127.0.0.1 at 2011-11-06 10:25:45 -0500
+  Processing by PagesController#home as HTML
+Rendered pages/home.html.erb within layouts/application (0.1ms)
+Compiled blueprint/screen.css  (69ms)  (pid 41396)
+Compiled blueprint/print.css  (0ms)  (pid 41396)
+Completed 200 OK in 811ms (Views: 810.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/blueprint/screen.css?body=1" for 127.0.0.1 at 2011-11-06 10:25:46 -0500
+Served asset /blueprint/screen.css - 200 OK (0ms)
+
+
+Started GET "/assets/blueprint/print.css?body=1" for 127.0.0.1 at 2011-11-06 10:25:46 -0500
+Served asset /blueprint/print.css - 200 OK (0ms)
+
+
+Started GET "/pages/home" for 127.0.0.1 at 2011-11-06 11:02:47 -0500
+  Processing by PagesController#home as HTML
+Rendered pages/home.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 8ms (Views: 7.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/blueprint/print.css?body=1" for 127.0.0.1 at 2011-11-06 11:02:47 -0500
+Served asset /blueprint/print.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/blueprint/screen.css?body=1" for 127.0.0.1 at 2011-11-06 11:02:47 -0500
+Served asset /blueprint/screen.css - 304 Not Modified (0ms)
+
+
+Started GET "/pages/home" for 127.0.0.1 at 2011-11-06 11:03:04 -0500
+  Processing by PagesController#home as HTML
+Rendered pages/home.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 7ms (Views: 6.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/blueprint/screen.css?body=1" for 127.0.0.1 at 2011-11-06 11:03:05 -0500
+Served asset /blueprint/screen.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/blueprint/print.css?body=1" for 127.0.0.1 at 2011-11-06 11:03:05 -0500
+Served asset /blueprint/print.css - 304 Not Modified (0ms)
+
+
+Started GET "/pages/home" for 127.0.0.1 at 2011-11-06 11:03:16 -0500
+  Processing by PagesController#home as HTML
+Rendered pages/home.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 10ms (Views: 9.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/blueprint/screen.css?body=1" for 127.0.0.1 at 2011-11-06 11:03:17 -0500
+Served asset /blueprint/screen.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/blueprint/print.css?body=1" for 127.0.0.1 at 2011-11-06 11:03:17 -0500
+Served asset /blueprint/print.css - 304 Not Modified (0ms)
+
+
+Started GET "/pages/home" for 127.0.0.1 at 2011-11-06 11:03:45 -0500
+  Processing by PagesController#home as HTML
+Rendered pages/home.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 24ms (Views: 23.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/blueprint/print.css?body=1" for 127.0.0.1 at 2011-11-06 11:03:45 -0500
+Served asset /blueprint/print.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/blueprint/screen.css?body=1" for 127.0.0.1 at 2011-11-06 11:03:45 -0500
+Served asset /blueprint/screen.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/rails.png" for 127.0.0.1 at 2011-11-06 11:21:25 -0500
+Served asset /rails.png - 304 Not Modified (29ms)
+
+
+Started GET "/pages/home" for 127.0.0.1 at 2011-11-06 12:52:44 -0500
+  Processing by PagesController#home as HTML
+Rendered pages/home.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 215ms (Views: 214.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/blueprint/screen.css?body=1" for 127.0.0.1 at 2011-11-06 12:52:47 -0500
+Served asset /blueprint/screen.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/blueprint/print.css?body=1" for 127.0.0.1 at 2011-11-06 12:52:47 -0500
+Served asset /blueprint/print.css - 304 Not Modified (0ms)
